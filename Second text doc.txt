@@ -2,3 +2,5 @@
 Вторая строка
 Next line1
 to push origin master
+
+This line add for branch 'testing' - 2

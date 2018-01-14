@@ -1,3 +1,4 @@
 Мама мыла раму
 next line #3 ура!!!
 fff
+This line add for branch 'testing' = 3
